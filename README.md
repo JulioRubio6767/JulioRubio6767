@@ -4,7 +4,7 @@
 
 ### 🚀 Analytics & Machine Learning Engineer | Big Data, MLOps & AI Governance (EU AI Act)
 📍 **Quito, Ecuador** *(Open to Relocation & Remote Roles worldwide / Europe 🇪🇺)*  
-🔗 [LinkedIn](https://www.linkedin.com/in/julio-rubio-bi/) | ✉️ [juliorubio6767@gmail.com](mailto:juliorubio6767@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/juliorubio-data/) | ✉️ [juliorubio6767@gmail.com](mailto:juliorubio6767@gmail.com)
 
 ---
 
@@ -54,6 +54,6 @@ BI & Analytics:   Power BI (Advanced DAX, Tabular Modeling, RLS, Embedding), Tab
 ---
 
 ## 🤝 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/julio-rubio-bi](https://www.linkedin.com/in/julio-rubio-bi/)
+* 💼 **LinkedIn:** [linkedin.com/in/juliorubio-data](https://www.linkedin.com/in/juliorubio-data/)
 * 💻 **GitHub:** [github.com/JulioRubio6767](https://github.com/JulioRubio6767)
 * ✉️ **Email:** [juliorubio6767@gmail.com](mailto:juliorubio6767@gmail.com)
